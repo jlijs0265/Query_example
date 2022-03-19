@@ -11,4 +11,4 @@ Query_example
 2. 주피터 실행
     - example.ipynb 실행
     - 맨윗셀 라이브러리 설치 실행후 설치 진행하고 커널 Restart
-~~~
+
